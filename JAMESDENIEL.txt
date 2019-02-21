@@ -3,3 +3,5 @@ Name: Orense, James Deniel M.
 Section: 1-12
 
 Height: 5"9'
+
+Weight: 95 kg
