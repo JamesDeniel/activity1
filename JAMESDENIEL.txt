@@ -7,3 +7,5 @@ Height: 5"9'
 Weight: 95 kg
 
 Program: Civil Engineering
+
+School: UNIVERSITY of SANTO TOMAS 
